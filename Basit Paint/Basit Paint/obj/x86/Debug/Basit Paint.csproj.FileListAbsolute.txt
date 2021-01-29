@@ -1,0 +1,13 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\Basit Paint\Basit Paint\bin\Debug\Basit Paint.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\Basit Paint\Basit Paint\bin\Debug\Basit Paint.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\Basit Paint\Basit Paint\obj\x86\Debug\MainWindow.baml
+c:\users\lenovo\documents\visual studio 2010\Projects\Basit Paint\Basit Paint\obj\x86\Debug\MainWindow.g.cs
+c:\users\lenovo\documents\visual studio 2010\Projects\Basit Paint\Basit Paint\obj\x86\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2010\Projects\Basit Paint\Basit Paint\obj\x86\Debug\Basit Paint_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2010\Projects\Basit Paint\Basit Paint\obj\x86\Debug\Basit Paint.g.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\Basit Paint\Basit Paint\obj\x86\Debug\Basit_Paint.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\Basit Paint\Basit Paint\obj\x86\Debug\Basit Paint.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\Basit Paint\Basit Paint\obj\x86\Debug\Basit Paint.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\Basit Paint\Basit Paint\obj\x86\Debug\Basit Paint.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Basit Paint\Basit Paint\obj\x86\Debug\Basit Paint.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Basit Paint\Basit Paint\obj\x86\Debug\Basit Paint.csproj.CoreCompileInputs.cache
